@@ -1,3 +1,7 @@
+.carousel{
+    width: 100%;
+}
+
 .carousel-item{
     position: absolute;
     top: 0;
@@ -6,16 +10,12 @@
     height: 32rem;
 }
 
-.redondas, .top, footer{
-    margin-top: 10rem;
-}
-
 .marketing .col-lg-4{
     margin-bottom: 1.5rem;
     text-align: center;
 }
 
-.praias {
+.praias, .redondas, .top, footer {
     margin-top: 6em;
     margin-left: 6em;
     width: 85%;
